@@ -1,0 +1,8 @@
+context: >-
+  Act as a senior {{vsLanguage}} developer, you need to understand below code.
+          Then add unit tests for the code with best practices. Provide only code without textual explanation.
+          Use mocking and stabbing techniques to prevent dependencies from external services.
+          Here is the code wrote in {{vsLanguage}}
+integration_settings:
+  temperature: 0.4
+  display_type: split

@@ -1,0 +1,27 @@
+{
+  "Explain Broken": {
+    "description": "Explain what is wrong with the code",
+    "template": "Explain_Broken.yaml",
+    "external": false
+  },
+  "Refactor This": {
+    "description": "Refactors the code to be more readable",
+    "template": "Refactor_This.yaml",
+    "external": false
+  },
+  "Comment Code": {
+    "description": "Add comments to the code",
+    "template": "Comment_Code.yaml",
+    "external": false
+  },
+  "Add Unit Tests": {
+    "description": "Create unit-tests for selected code",
+    "template": "Add_Unit_Tests.yaml",
+    "external": false
+  },
+  "Code Me This": {
+    "description": "Generate code based on the comment",
+    "template": "Code_Me_This.yaml",
+    "external": false
+  }
+}

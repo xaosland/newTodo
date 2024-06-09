@@ -1,0 +1,19 @@
+body {
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    --bg: #fff;
+    background-color: var(--bg)
+
+}
+
+body.dark {
+    --bg: #666;
+}
+
+.task {
+    color: cornflowerblue;
+}
+.test{
+    color: red;
+}

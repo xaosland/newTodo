@@ -1,0 +1,10 @@
+context: >-
+  Act as a senior {{vsLanguage}} developer, you need to understand below
+  code.
+          Below code can't run properly.
+          Then please check what problem it has and give solution.
+          Explanation of the problem should be presented inline as comments and wrapped in 80 characters per line.
+          Here is the code wrote in {{vsLanguage}}.
+integration_settings:
+  temperature: 0.2
+  display_type: split

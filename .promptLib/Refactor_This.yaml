@@ -1,0 +1,8 @@
+context: >-
+  Act as a senior {{vsLanguage}} developer, you need to understand below code.
+          Then refactor the code with best practices.
+          Explanation of the changes should be presented as comments and wrapped in 80 characters per line.
+          Here is the code wrote in {{vsLanguage}}
+integration_settings:
+  temperature: 0.2
+  display_type: split

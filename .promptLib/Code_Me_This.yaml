@@ -1,0 +1,9 @@
+context: >-
+  Act as a senior {{vsLanguage}} developer, you need to understand comment
+  bellow.
+          Then generate code with best practices based on your understanding.
+          Return only the code in the completion. Add code comments that explains how it works.
+          Here is the comment:
+integration_settings:
+  temperature: 0.6
+  display_type: append

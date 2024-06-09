@@ -1,0 +1,12 @@
+.add_form {
+
+    height: 80px;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.form {
+    display: flex;
+}
